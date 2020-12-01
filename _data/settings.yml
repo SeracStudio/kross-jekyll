@@ -129,6 +129,7 @@ services:
    description: 'The next project is going to start a new genre in video games' industry',
    active: # Add true to select section
   }
+  
 - {
     name: ,
   #  icon: "assets/images/icons/card_3.png",
