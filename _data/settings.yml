@@ -123,18 +123,18 @@ services:
     active: # Add true to select section
   }
   
-#- {
- #   name: ,
+- {
+   name: ,
   #  icon: "assets/images/icons/card_2.png",
-  #  description: 'We are working now in Crystal Wars, a mutiplayer card game where you will decide the next God of gods.',
-   # active: # Add true to select section
- # }
-#- {
- #   name: ,
+   description: 'The next project is going to start a new genre in video games' industry',
+   active: # Add true to select section
+  }
+- {
+    name: ,
   #  icon: "assets/images/icons/card_3.png",
-  #  description: 'Be the winner of the Great God War and you will become the Ruler of both worlds',
-   # active: # Add true to select section
- # }
+   description: 'Be the one who joins and begins the revolution',
+   active: # Add true to select section
+  }
 
 
 #-------------------------------
