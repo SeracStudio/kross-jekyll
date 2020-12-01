@@ -13,6 +13,7 @@ menu:
 - {name: About, link: '#crystalwars'}
 - {name: Portfolio, link: '#portafolio'}
 - {name: Team, link: '#team'}
+- {name: Know us, link: '#blog'}
 
 #-------------------------------
 # Google Analytics Section
