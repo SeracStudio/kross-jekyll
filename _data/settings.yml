@@ -114,26 +114,27 @@ education:
 #-------------------------------
 # Services Section
 
-services-title: Crystal Wars
+services-title: Our biggest project
 services:
 - {
     name: ,
-    icon: "assets/images/icons/card_1.png",
-    description: 'You will choose one of many decks available and modify it to adapt it to you.',
+    #icon: "assets/images/icons/card_1.png",
+    description: 'This week is going to be the start of the new era for Serac Studio',
     active: # Add true to select section
   }
-- {
-    name: ,
-    icon: "assets/images/icons/card_2.png",
-    description: 'We are working now in Crystal Wars, a mutiplayer card game where you will decide the next God of gods.',
-    active: # Add true to select section
-  }
-- {
-    name: ,
-    icon: "assets/images/icons/card_3.png",
-    description: 'Be the winner of the Great God War and you will become the Ruler of both worlds',
-    active: # Add true to select section
-  }
+  
+#- {
+ #   name: ,
+  #  icon: "assets/images/icons/card_2.png",
+  #  description: 'We are working now in Crystal Wars, a mutiplayer card game where you will decide the next God of gods.',
+   # active: # Add true to select section
+ # }
+#- {
+ #   name: ,
+  #  icon: "assets/images/icons/card_3.png",
+  #  description: 'Be the winner of the Great God War and you will become the Ruler of both worlds',
+   # active: # Add true to select section
+ # }
 
 
 #-------------------------------
@@ -147,8 +148,8 @@ portfolio-home-items:
   - image : "assets/images/portfolio/UBG.png"
     url: "https://grupo7.itch.io/untitled-board-game"
     
-#  - image : "assets/images/portfolio/script.png"
-#    url: "https://drive.google.com/drive/folders/1tov3M_rttadFn7d-fHIOFCQySwa87sdG?usp=sharing"
+  - image : "assets/images/portfolio/LOGO.png"
+    url: "https://seracstudio.itch.io/crystal-wars"
     
   - image : "assets/images/portfolio/bicubic.png"
     url: "https://play.google.com/store/apps/details?id=com.thisisGAMES.Bicubic"
@@ -227,7 +228,7 @@ testimonial-items:
   - name: "Pablo"
     image: "assets/images/team/pablo_1.png"
     designation : "Narrative Designer"
-    content : 
+    content : "I'm Pablo, and I would like to know you better"
     
   - name: "Alejandro"
     image: "assets/images/team/alejandro_1.png"
