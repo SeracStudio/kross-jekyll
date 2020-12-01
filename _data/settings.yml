@@ -118,21 +118,21 @@ services-title: Our biggest project
 services:
 - {
     name: ,
-    #icon: "assets/images/icons/card_1.png",
+    icon: "",
     description: 'This week is going to be the start of the new era for Serac Studio',
     active: # Add true to select section
    }
   
 - {
    name: ,
-  #  icon: "assets/images/icons/card_2.png",
+   icon: "",
    description: 'The next project is going to start a new genre in video games' industry',
    active: # Add true to select section
   }
   
 - {
     name: ,
-  #  icon: "assets/images/icons/card_3.png",
+   icon: "",
    description: 'Be the one who joins and begins the revolution',
    active: # Add true to select section
   }
