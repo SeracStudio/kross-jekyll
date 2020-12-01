@@ -113,26 +113,25 @@ education:
 
 #-------------------------------
 # Services Section
-
-services-title: Our biggest project
+services-title: Services
 services:
 - {
-    name: ,
-    icon: "",
-    description: 'This week is going to be the start of the new era for Serac Studio',
+    name: UI Design,
+    icon: ti-palette,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
-   }
-- {
-   name: ,
-   icon: "",
-   description: 'The next project is going to start a new genre in video games' industry',
-   active: # Add true to select section
   }
 - {
-    name: ,
-   icon: "",
-   description: 'Be the one who joins and begins the revolution',
-   active: # Add true to select section
+    name: UX Design,
+    icon: ti-vector,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    active: true # Add true to select section
+  }
+- {
+    name: Interaction Design,
+    icon: ti-panel,
+    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    active: # Add true to select section
   }
 
 
