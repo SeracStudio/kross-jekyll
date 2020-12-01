@@ -126,7 +126,7 @@ services:
     name: ,
     icon: ,
     description: 'The next project is going to start a new genre in video games industry.',
-    active: true # Add true to select section
+    active:  # Add true to select section
   }
 - {
     name: ,
