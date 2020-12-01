@@ -121,7 +121,7 @@ services:
     #icon: "assets/images/icons/card_1.png",
     description: 'This week is going to be the start of the new era for Serac Studio',
     active: # Add true to select section
-  }
+   }
   
 - {
    name: ,
