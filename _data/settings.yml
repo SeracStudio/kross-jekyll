@@ -121,15 +121,13 @@ services:
     icon: "",
     description: 'This week is going to be the start of the new era for Serac Studio',
     active: # Add true to select section
-   },
-  
+   }
 - {
    name: ,
    icon: "",
    description: 'The next project is going to start a new genre in video games' industry',
    active: # Add true to select section
-  },
-  
+  }
 - {
     name: ,
    icon: "",
