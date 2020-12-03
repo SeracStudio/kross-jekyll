@@ -6,8 +6,6 @@ image:  /assets/images/blog/ss_games.png
 author: uixgeek
 tags:   UX design
 ---
-<script>location.replace("https://seracstudio.github.io/portfolio/our-games")
-</script>
 
 **Somos Serac Studio y estos son nuestros juegos**
 
