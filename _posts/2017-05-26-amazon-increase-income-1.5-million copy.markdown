@@ -2,7 +2,7 @@
 layout: post
 title:  Juegos hechos
 date:   2017-05-26 11:05:55 +0300
-image:  /assets/images/blog/ss_games-png
+image:  /assets/images/blog/ss_games.png
 author: uixgeek
 tags:   UX design
 ---
