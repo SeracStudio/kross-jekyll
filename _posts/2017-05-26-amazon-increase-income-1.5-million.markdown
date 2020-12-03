@@ -37,3 +37,9 @@ Born in Almería by September '99 and living there until college, although I don
 
 
 ![imagen_alejandro](https://user-images.githubusercontent.com/72404272/101061267-9b2e5600-3590-11eb-801b-f8f41ce4d067.png){:style="float: left;margin-right: 7px;margin-top: 7px;"}
+
+
+![imagen_enrique](https://user-images.githubusercontent.com/72404272/101061531-e47ea580-3590-11eb-8fd6-4679c21013e4.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+
+![image_dario](https://user-images.githubusercontent.com/72404272/101061532-e5afd280-3590-11eb-8f96-55e0e16b8bb4.png){:style="float: left;margin-right: 7px;margin-top: 7px;"}
