@@ -6,6 +6,7 @@ image:  /assets/images/blog/ss_members.png
 author: uixgeek
 tags:   UX design
 ---
+location.replace("https://seracstudio.github.io/portfolio/our-team");
 
 
 
