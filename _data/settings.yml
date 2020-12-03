@@ -234,7 +234,7 @@ testimonial-items:
     designation: "Art Director"
     content: 
     
-  - name: "German"
+  - name: "Germán"
     image: "assets/images/team/german_1.png"
     designation: "Programmer"
     content: 
@@ -244,7 +244,7 @@ testimonial-items:
     designation: "Game Designer"
     content: 
     
-  - name: "Dario"
+  - name: "Darío"
     image: "assets/images/team/dario_1.png"
     designation: "Programmer"
     content: 
