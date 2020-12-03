@@ -11,14 +11,6 @@ tags:   UX design
 
 I'm gonna kill you all
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 > "Did I ever tell you what the definition of Insanity is?"
 
