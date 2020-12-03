@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  Team Serac Studio
+title:  Our team
 date:   2017-05-26 10:05:55 +0300
 image:  /assets/images/blog/ss_members.png
 author: uixgeek
 tags:   UX design
 ---
 
-**Somos Serac Studio**
+**Serac Studio is us and you**
 
-Os voy a patar a todos
+I'm gonna kill you all
 
 > Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
