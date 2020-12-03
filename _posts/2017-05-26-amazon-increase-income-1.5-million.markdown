@@ -34,3 +34,6 @@ Hi, I'm Dilan Rodríguez Triana and I'm the Game Designer and Social Media Manag
 Born in Almería by September '99 and living there until college, although I don't like it so much. Moved to Madrid to study a video games' degree in the glorious URJC, where I met the partners that form now Serac Studio. Once I was in Japan and I talked too much about it. Project manager and narrative designer. Also, a helper in any task that require it, but the coding ones. Along with my mates Alejandro, Germán and Dilan, we've joined two game jams having Hell's Trial and Untitled Board Game as results. In addition, we have worked on Crystal Wars in this company. My heart tells me Nintendo, but my mind tells me PC Master Race. Big fan of Fire Emblem saga, The Legend of Zelda: Breath of the Wild, Hotline Miami, Pokémon Platinum and Portal. You can contact me via Twitter to @Wonick or sending an email to pabloSeracStudio@gmail.com
 
 ![imagen_german](https://user-images.githubusercontent.com/45218480/101056559-653aa300-358b-11eb-80e3-750a23e0523b.PNG){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+
+![imagen_alejandro](https://user-images.githubusercontent.com/72404272/101061267-9b2e5600-3590-11eb-801b-f8f41ce4d067.png){:style="float: left;margin-right: 7px;margin-top: 7px;"}
