@@ -13,14 +13,14 @@ tags:   UX design
 
 I'm gonna kill you all
 
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
+<br> </br>
 
 ![image_dilanson](https://user-images.githubusercontent.com/45218480/101056530-5c49d180-358b-11eb-8e3f-59c503097169.png){:style="float: right;margin-right: 7px;margin-top: 7px;"} 
 > "Did I ever tell you what the definition of Insanity is?"
