@@ -20,7 +20,7 @@ defaults:
 
 include:
   - _pages
-  -_post
+  -_posts
 
 sass:
   sass_dir: assets/scss
