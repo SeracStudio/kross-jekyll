@@ -24,9 +24,14 @@ I'm gonna kill you all
 
 ![image_dilanson](https://user-images.githubusercontent.com/45218480/101056530-5c49d180-358b-11eb-8e3f-59c503097169.png){:style="float: right;margin-right: 7px;margin-top: 7px;"} 
 > "Did I ever tell you what the definition of Insanity is?"
+
 Hi, I'm Dilan Rodríguez Triana and I'm the **Game Designer** and **Social Media Manager** at Serac Studio. In my case, I am in charge of **balancing the mechanics** within the video games we make and also **maintaining activity on the Twitter and YouTube** accounts. Talking a bit about myself, I played my first video game at the age of 3 (PSOne's Tomb Raider) and since then it has become my passion. During these years, I have played various video games, and the one that has led me to want to dedicate myself to the video game sector has been Bloodborne, from From Software. I've made Hell’s Trial and Crystal Wars. You can **contact me** on dilanSeracStudio@gmail.com
+
+
+
 
 ![imagen_german](https://user-images.githubusercontent.com/45218480/101056559-653aa300-358b-11eb-80e3-750a23e0523b.PNG){:style="float: left;margin-right: 7px;margin-top: 7px;"} 
 > "We all make choices, but in the end our choices make us"
+
 Born in Almería by September '99 and living there until college, although I don't like it so much. Moved to Madrid to study a video games' degree in the glorious URJC, where I met the partners that form now Serac Studio. Once I was in Japan and I talked too much about it. **Project manager** and **narrative designer**. Also, a helper in any task that require it, but the coding ones. Along with my mates Alejandro, Germán and Dilan, we've joined two game jams having Hell's Trial and Untitled Board Game as results. In addition, we have worked on Crystal Wars in this company. My heart tells me Nintendo, but my mind tells me PC Master Race. Big fan of Fire Emblem saga, The Legend of Zelda: Breath of the Wild, Hotline Miami, Pokémon Platinum and Portal. You can **contact me** via Twitter to @Wonick or sending an email to pabloSeracStudio@gmail.com
 
