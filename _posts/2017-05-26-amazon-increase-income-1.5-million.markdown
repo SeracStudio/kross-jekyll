@@ -22,7 +22,7 @@ I'm gonna kill you all
 <br></br>
 <br></br>
 
-![](/assets/images/team/imagen_dilanson.png)
+![image_dilanson](https://user-images.githubusercontent.com/45218480/101056530-5c49d180-358b-11eb-8e3f-59c503097169.png)
 > "Did I ever tell you what the definition of Insanity is?"
 
 Hi, I'm Dilan Rodríguez Triana and I'm the Game Designer and Social Media Manager at Serac Studio. In my case, I am in charge of balancing the mechanics within the video games we make and also maintaining activity on the Twitter and YouTube accounts. Talking a bit about myself, I played my first video game at the age of 3 (PSOne's Tomb Raider) and since then it has become my passion. During these years, I have played various video games, and the one that has led me to want to dedicate myself to the video game sector has been Bloodborne, from From Software.
