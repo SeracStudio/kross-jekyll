@@ -1,3 +1,4 @@
+<br>
 ---
 layout: post
 title:  Our team
@@ -6,10 +7,19 @@ image:  /assets/images/blog/ss_members.png
 author: uixgeek
 tags:   UX design
 ---
+</br>
 
 **Serac Studio is us and you**
 
 I'm gonna kill you all
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <br></br>
 
 > "Did I ever tell you what the definition of Insanity is?"
