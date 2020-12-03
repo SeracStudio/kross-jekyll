@@ -14,13 +14,12 @@ compress_html:
 # Pages Path
 defaults:
   - scope:
-      path: '_posts'
+      path: '_pages'
     values:
       permalink: /:basename:output_ext
 
 include:
   - _pages
-  -_posts
 
 sass:
   sass_dir: assets/scss
