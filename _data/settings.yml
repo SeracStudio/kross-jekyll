@@ -112,6 +112,24 @@ education:
 - {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+  - image : "assets/images/portfolio/HellTrial.png"
+    url: "https://grupo7.itch.io/hells-trial"
+    
+  - image : "assets/images/portfolio/UBG.png"
+    url: "https://grupo7.itch.io/untitled-board-game"
+    
+  - image : "assets/images/portfolio/crystal_wars.png"
+    url: "https://seracstudio.itch.io/crystal-wars"
+    
+  - image : "assets/images/portfolio/bicubic.png"
+    url: "https://play.google.com/store/apps/details?id=com.thisisGAMES.Bicubic"
+
 #-------------------------------
 # Services Section
 services-title: Our biggest project
@@ -136,22 +154,6 @@ services:
   }
 
 
-#-------------------------------
-# Portfolio (Section and Page)
-
-# Portfolio Home Section
-portfolio-home-items:
-  - image : "assets/images/portfolio/HellTrial.png"
-    url: "https://grupo7.itch.io/hells-trial"
-    
-  - image : "assets/images/portfolio/UBG.png"
-    url: "https://grupo7.itch.io/untitled-board-game"
-    
-  - image : "assets/images/portfolio/crystal_wars.png"
-    url: "https://seracstudio.itch.io/crystal-wars"
-    
-  - image : "assets/images/portfolio/bicubic.png"
-    url: "https://play.google.com/store/apps/details?id=com.thisisGAMES.Bicubic"
 
 # Portfolio Page
 portfolio-label:
