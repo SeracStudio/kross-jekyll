@@ -10,7 +10,7 @@ address: Mostoles, Comunidad de Madrid, Spain
 copyright: Copyright &copy; 2020 Designed by Serac Studio
 
 menu:
-- {name: About, link: '/portfolio/#crystalwars'}
+- {name: Our project, link: '/portfolio/#crystalwars'}
 #- {name: Portfolio, link: '/portfolio/#portafolio'}
 #- {name: Team, link: '/portfolio/#team'}
 - {name: Know us, link: '/portfolio/#blog'}
