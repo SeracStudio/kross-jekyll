@@ -120,7 +120,7 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/merchan.png"
-    url: "/portfolio/#blog"
+    url: "/portfolio/2020/11/14/merchandising/"
     
 #-------------------------------
 # Services Section
