@@ -140,7 +140,7 @@ services:
   }
 - {
     name: ,
-    icon: ,
+    icon: "assets/images/icons/every_enemy_trans.png",
     description: 'Plenty of enemies lives in the mine. Be careful, ranger! One bad step and your life will end',
     active: # Add true to select section
   }
