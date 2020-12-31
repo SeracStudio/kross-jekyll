@@ -7,9 +7,8 @@
         <h2 class="section-title">Our brand</h2>
       </div>
     </div>
-    <div class="center" width="150px" height="150px">
-            {% for item in site.data.settings.portfolio-home-items %}
-
+    <div class="center">
+      {% for item in site.data.settings.portfolio-home-items %}
        <div class="shuffle-item">
         <div class="position-relative rounded hover-wrapper">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image"  class="img-fluid rounded w-100 d-block">
@@ -19,7 +18,7 @@
           </div></div>
         </div>
       </div>
-           {% endfor %}
+     {% endfor %}
 
     </div>
   </div>
