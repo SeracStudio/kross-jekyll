@@ -10,16 +10,16 @@
     <div class="row">
       {% for item in site.data.settings.portfolio-home-items %}
         <div class="col"></div> 
-       <div class="col shuffle-item">
+       <div class="col-4 shuffle-item">
         <div class="position-relative rounded hover-wrapper">
           <img src="{{ site.baseurl }}/{{ item.image }}" alt="portfolio-image"  class="img-fluid rounded w-100 d-block">
           <div class="hover-overlay">
             <div class="hover-content">
               <a class="btn btn-light btn-sm" target="_blank" href="{{ item.url }}">Click here to see it!</a>
           </div></div>
-        </div>
-          <div class="col"></div> 
-      </div>
+        </div> 
+      </div> 
+      <div class="col"></div> 
      {% endfor %}
 
     </div>
