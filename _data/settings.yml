@@ -128,7 +128,7 @@ services-title: GuildMasters' Heritage
 services:
 - {
     name: ,
-    icon: ,
+    icon: "assets/images/icons/every_protagonist_trans.png",
     description: 'These are Arcelia and her miner robot S.O.R.A., you must help them to collect as many treasures as you can before something appears in the mine....',
     active: # Add true to select section
   }
