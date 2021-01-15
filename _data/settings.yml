@@ -133,7 +133,7 @@ services:
     active: # Add true to select section
   }
 - {
-    name: 'centro',
+    name: ,
     icon: ,
     description: 'Your friend and you will become the members of GuildMasters, an explorer guild',
     active:  # Add true to select section
