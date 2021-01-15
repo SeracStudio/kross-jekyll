@@ -6,14 +6,18 @@
       <div class="col-12 text-center">
         <h2 class="section-title">{{ site.data.settings.services-title }}</h2>
 <!--iframe width="560" height="315" src="https://www.youtube.com/embed/vpfBTdsbToA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe-->  
-      <iframe frameborder="0" src="https://itch.io/embed/868752" width="552" height="167"><a href="https://seracstudio.itch.io/guildmasters-heritage">Guildmasters' Heritage by SeracStudio</a></iframe>
-      </div>
+       </div>
       {% for service in site.data.settings.services %}
       <div class="col-md-4 mb-4 mb-md-0">
         <div class="card hover-shadow shadow" style="background-color: #5c83a0;">
           <div class="card-body text-center px-4 py-5" >
             <img src="{{ service.icon }}" class="responsive"></i>
             <h4 class="mb-4">{{ service.name }}</h4>
+            <script>
+       if(service.name == "centro") {
+ <iframe frameborder="0" src="https://itch.io/embed/868752" width="552" height="167"><a href="https://seracstudio.itch.io/guildmasters-heritage">Guildmasters' Heritage by SeracStudio</a></iframe>
+           }
+        </script>
             <p style="color: #ffffff">{{ service.description }}</p>
           </div>
         </div>
