@@ -14,7 +14,7 @@ menu:
 #- {name: Portfolio, link: '/portfolio/#portafolio'}
 #- {name: Team, link: '/portfolio/#team'}
 - {name: Know us, link: '/portfolio/#blog'}
-#- {name: Merchan, link: '/portfolio/#merchan'}
+- {name: Merchan, link: '/portfolio/#merchan'}
 
 #-------------------------------
 # Google Analytics Section
